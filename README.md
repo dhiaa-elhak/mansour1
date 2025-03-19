@@ -1,16 +1,40 @@
-# mansour1
+# 🛍️ Mansour1 - Application e-commerce Flutter (BLoC + API)
 
-A new Flutter project.
+**Mansour1** est une application mobile e-commerce développée avec **Flutter** en utilisant l'architecture **BLoC** et la consommation d'une **API REST**. Ce projet simule une boutique en ligne moderne avec navigation fluide, gestion des états, et communication avec un backend distant.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fonctionnalités
 
-A few resources to get you started if this is your first Flutter project:
+- Affichage dynamique des produits depuis une API
+- Catégories de produits
+- Détails du produit
+- Ajout au panier
+- Architecture BLoC bien structurée
+- Gestion des états propre et scalable
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies utilisées
+
+- **Flutter**
+- **Dart**
+- **BLoC (Business Logic Component)**
+- **API REST**
+- **HTTP package**
+- **Provider (si utilisé)**
+
+---
+
+## 📱 Captures d’écran *(optionnel)*
+
+Ajoutez quelques screenshots ici pour montrer :
+- La page d’accueil
+- La page produit
+- Le panier
+- Le formulaire de commande (s'il existe)
+
+---
+
+## 📂 Structure du projet
+
