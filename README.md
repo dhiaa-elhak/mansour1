@@ -22,7 +22,7 @@
 - **BLoC (Business Logic Component)**
 - **API REST**
 - **HTTP package**
-- **Provider (si utilisé)**
+
 
 ---
 
